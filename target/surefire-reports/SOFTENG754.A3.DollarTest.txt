@@ -2,7 +2,7 @@
 Test set: SOFTENG754.A3.DollarTest
 -------------------------------------------------------------------------------
 Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE!
-SOFTENG754.A3.DollarTest.testDollarDivision()  Time elapsed: 0.002 sec  <<< FAILURE!
+SOFTENG754.A3.DollarTest.testDollarDivision()  Time elapsed: 0.003 sec  <<< FAILURE!
 java.lang.NoClassDefFoundError: org/junit/Assert
 	at SOFTENG754.A3.DollarTest.testDollarDivision(DollarTest.java:15)
 Caused by: java.lang.ClassNotFoundException: org.junit.Assert
