@@ -1,7 +1,6 @@
 package SOFTENG754.A3;
-import static org.junit.Assert.*;
 
-import org.bson.Document;
+import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class DollarTest {
