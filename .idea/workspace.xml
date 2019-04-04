@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93164c7b-fc55-4251-a8f3-ab173e83aade" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/SOFTENG754/A3/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SOFTENG754/A3/Dollar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SOFTENG754/A3/DollarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SOFTENG754/A3/DollarTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
