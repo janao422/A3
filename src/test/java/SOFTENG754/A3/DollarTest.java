@@ -1,5 +1,5 @@
 package SOFTENG754.A3;
-
+/* Jenny Lim */
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -12,7 +12,7 @@ public class DollarTest {
         // When
         Dollar result = ten.dividedBy(2);
         // Then
-        assertEquals(new Dollar(5), result); // You could change 5 to 4 to see the build failure
+        assertEquals(new Dollar(4), result); // You could change 5 to 4 to see the build failure
     }
 
     @Test(expected=ArithmeticException.class)
